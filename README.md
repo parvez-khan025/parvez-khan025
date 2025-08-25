@@ -1,19 +1,32 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="800"/>
+</p>
+
 # Hi 👋, I'm Md Parvez Khan  
 A passionate developer from Bangladesh  
 
 ---
 
-- 🌱 I’m currently learning **Kotlin, PHP**  
+- 🌱 I’m currently learning **Kotlin**
 - 💬 Ask me about **Android, Web Development, Programming**  
 - 📫 How to reach me: **parvezkhan0625@gmail.com**  
-- ⚡ Fun fact: **I think I am Funny 😆**  
+- ⚡ Fun fact: **I don’t fix bugs, I teach them new behaviors 🐞➡️✨**  
 
 ---
 
 ### 🌐 Connect with me:
-<a href="https://x.com/parvez_khan025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/icons/social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/parvez-khan025/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/icons/social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/parvez_khan025/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/icons/social/instagram.svg" alt="Instagram" height="30" width="40" /></a>  
+<p align="left">
+<a href="https://x.com/parvez_khan025" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/parvez-khan025/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/parvez_khan025/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+</p>
+  
 
 ---
 

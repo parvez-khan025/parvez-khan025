@@ -39,10 +39,3 @@ A passionate developer from Bangladesh
 <img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Photoshop" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/>
-
-<br><br>
-
----
-
-### 📊 GitHub Stats
-![Parvez's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvez-khan025&show_icons=true&theme=radical)

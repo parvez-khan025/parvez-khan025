@@ -9,7 +9,7 @@ A passionate developer from Bangladesh
 
 - 🌱 I’m currently learning **Kotlin**
 - 💬 Ask me about **Android, Web Development, Programming**  
-- 📫 How to reach me: **parvezkhan0625@gmail.com**  
+- 📫 How to reach me: **mdparvezkhan.dev@gmail.com**  
 - ⚡ Fun fact: **I don’t fix bugs, I teach them new behaviors 🐞➡️✨**  
 
 ---

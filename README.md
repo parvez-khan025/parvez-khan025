@@ -16,13 +16,13 @@ A passionate developer from Bangladesh
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://x.com/parvez_khan025" target="blank">
+<a href="https://x.com/mdparvezkhan025" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/parvez-khan025/" target="blank">
+<a href="https://www.linkedin.com/in/mdparvezkhan-dev/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/parvez_khan025/" target="blank">
+<a href="https://www.instagram.com/mdparvezkhan.dev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
